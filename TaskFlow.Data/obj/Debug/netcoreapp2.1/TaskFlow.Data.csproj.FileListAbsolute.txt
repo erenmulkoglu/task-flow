@@ -1,0 +1,14 @@
+C:\Users\Eren\source\repos\TaskFlow.API\TaskFlow.Data\bin\Debug\netcoreapp2.1\TaskFlow.Data.deps.json
+C:\Users\Eren\source\repos\TaskFlow.API\TaskFlow.Data\bin\Debug\netcoreapp2.1\TaskFlow.Data.runtimeconfig.json
+C:\Users\Eren\source\repos\TaskFlow.API\TaskFlow.Data\bin\Debug\netcoreapp2.1\TaskFlow.Data.runtimeconfig.dev.json
+C:\Users\Eren\source\repos\TaskFlow.API\TaskFlow.Data\bin\Debug\netcoreapp2.1\TaskFlow.Data.dll
+C:\Users\Eren\source\repos\TaskFlow.API\TaskFlow.Data\bin\Debug\netcoreapp2.1\TaskFlow.Data.pdb
+C:\Users\Eren\source\repos\TaskFlow.API\TaskFlow.Data\bin\Debug\netcoreapp2.1\TaskFlow.Core.dll
+C:\Users\Eren\source\repos\TaskFlow.API\TaskFlow.Data\bin\Debug\netcoreapp2.1\TaskFlow.Core.pdb
+C:\Users\Eren\source\repos\TaskFlow.API\TaskFlow.Data\obj\Debug\netcoreapp2.1\TaskFlow.Data.csproj.AssemblyReference.cache
+C:\Users\Eren\source\repos\TaskFlow.API\TaskFlow.Data\obj\Debug\netcoreapp2.1\TaskFlow.Data.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\TaskFlow.API\TaskFlow.Data\obj\Debug\netcoreapp2.1\TaskFlow.Data.AssemblyInfoInputs.cache
+C:\Users\Eren\source\repos\TaskFlow.API\TaskFlow.Data\obj\Debug\netcoreapp2.1\TaskFlow.Data.AssemblyInfo.cs
+C:\Users\Eren\source\repos\TaskFlow.API\TaskFlow.Data\obj\Debug\netcoreapp2.1\TaskFlow.Data.csproj.CopyComplete
+C:\Users\Eren\source\repos\TaskFlow.API\TaskFlow.Data\obj\Debug\netcoreapp2.1\TaskFlow.Data.dll
+C:\Users\Eren\source\repos\TaskFlow.API\TaskFlow.Data\obj\Debug\netcoreapp2.1\TaskFlow.Data.pdb

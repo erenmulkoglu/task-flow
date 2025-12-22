@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\taskflow-client",
+    "\\taskflow-client\\src",
+    "\\taskflow-client\\src\\pages",
+    "\\taskflow-client\\src\\services",
+    "\\TaskFlow.API",
+    "\\TaskFlow.Service",
+    "\\TaskFlow.Service\\Services"
+  ],
+  "SelectedNode": "\\TaskFlow.API.sln",
+  "PreviewInSolutionExplorer": false
+}
