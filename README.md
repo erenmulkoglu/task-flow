@@ -47,3 +47,23 @@
 - Doğrulama özellikli interaktif formlar (Interactive forms with validation)
 - Mobil uyumlu düzen (Mobile-friendly layout)
 
+
+
+## Proje Yapısı
+```
+TaskFlow/
+├── Backend/
+│   ├── TaskFlow.API/          # Web API controller'ları ve başlangıç
+│   ├── TaskFlow.Core/         # Domain entity'leri ve DTO'lar
+│   ├── TaskFlow.Data/         # Veritabanı context ve repository'ler
+│   └── TaskFlow.Service/      # İş mantığı servisleri
+└── Frontend/
+    └── taskflow-client/       # React uygulaması
+        ├── src/
+        │   ├── components/    # Yeniden kullanılabilir UI bileşenleri
+        │   ├── context/       # React context provider'ları
+        │   ├── pages/         # Sayfa bileşenleri
+        │   ├── services/      # API servisleri
+        │   └── utils/         # Yardımcı fonksiyonlar
+        └── public/
+```
