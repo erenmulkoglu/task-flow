@@ -1,15 +1,16 @@
 # TaskFlow - Modern Görev Yönetim Sistemi (TaskFlow - Modern Task Management System)
 
 
+**ASP.NET Core** ve **React** ile geliştirilmiş tam kapsamlı bir görev yönetim uygulaması. Temiz ve sezgisel arayüzü ile görevlerinizi verimli bir şekilde yönetin.
+(A full-stack task management application built with **ASP.NET Core** and **React**. Manage your tasks efficiently with a clean, intuitive interface.)
+
+
+
 <img width="1538" height="997" alt="image" src="https://github.com/user-attachments/assets/a4aff607-9a3b-47f7-8651-e4b65dde18f0" />
 <img width="1609" height="992" alt="image" src="https://github.com/user-attachments/assets/d09b5c71-2fa2-47b0-8279-0283b4c5496f" />
 <img width="1378" height="996" alt="image" src="https://github.com/user-attachments/assets/921c0a35-e98c-42a4-bbd5-31a863f25ab1" />
 <img width="1406" height="999" alt="image" src="https://github.com/user-attachments/assets/5e99f8c3-1694-44a9-ba21-d02d57637061" />
 
-
-
-**ASP.NET Core** ve **React** ile geliştirilmiş tam kapsamlı bir görev yönetim uygulaması. Temiz ve sezgisel arayüzü ile görevlerinizi verimli bir şekilde yönetin.
-(A full-stack task management application built with **ASP.NET Core** and **React**. Manage your tasks efficiently with a clean, intuitive interface.)
 
 
 ## Tech
