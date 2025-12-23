@@ -89,4 +89,3 @@ TaskFlow/
 - `DELETE /api/tasks/{id}` - Görevi sil
 - `GET /api/tasks/status/{status}` - Duruma göre görevleri getir
 - `GET /api/tasks/category/{categoryId}` - Kategoriye göre görevleri getir
-- 
