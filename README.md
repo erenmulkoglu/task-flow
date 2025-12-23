@@ -13,7 +13,7 @@
 
 
 
-## Tech
+## Teknolojiler (Tech)
 
 ### Backend
 - **ASP.NET Core 2.1** - Web API framework
@@ -30,7 +30,9 @@
 - **Context API** - State yönetimi
 
 
-## Features
+
+## Özellikler (Features)
+
 
 ### Kimlik Doğrulama (Authentication)
 - Kullanıcı kaydı ve girişi (User registration and login)
@@ -52,7 +54,6 @@
 - Renkli durum etiketleri (Status badges with color coding)
 - Doğrulama özellikli interaktif formlar (Interactive forms with validation)
 - Mobil uyumlu düzen (Mobile-friendly layout)
-
 
 
 ## Proje Yapısı
