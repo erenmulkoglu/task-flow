@@ -90,3 +90,16 @@ TaskFlow/
 - `DELETE /api/tasks/{id}` - Görevi sil
 - `GET /api/tasks/status/{status}` - Duruma göre görevleri getir
 - `GET /api/tasks/category/{categoryId}` - Kategoriye göre görevleri getir
+
+
+## Lisans
+
+Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LICENSE) dosyasına bakın.
+
+## Geliştirici
+
+**Eren Mülkoğlu**
+
+- GitHub: [@erenmulkoglu](https://github.com/erenmulkoglu)
+- LinkedIn: [Eren Mülkoğlu](https://linkedin.com/in/erenmulkoglu)
+- 
