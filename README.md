@@ -82,20 +82,20 @@ TaskFlow/
 
 | Method | Endpoint | Açıklama |
 |--------|----------|----------|
-| POST | /api/auth/register | - Yeni kullanıcı kaydı
-| POST | /api/auth/login | - Kullanıcı girişi
+| POST | `/api/auth/register` |  Yeni kullanıcı kaydı
+| POST | `/api/auth/login` |  Kullanıcı girişi
 
 ### Görevler (Kimlik Doğrulama Gerektirir)
 
 | Method | Endpoint | Açıklama |
 |--------|----------|----------|
-| GET | /api/tasks | Tüm görevleri getir
-| GET | /api/tasks/{id} | ID'ye göre görev getir
-| POST | /api/tasks | Yeni görev oluştur
-| PUT | /api/tasks/{id} | Görevi güncelle
-| DELETE | /api/tasks/{id} | Görevi sil
-| GET | /api/tasks/status/{status} | Duruma göre görevleri getir
-| GET | /api/tasks/category/{categoryId} | Kategoriye göre görevleri getir
+| GET | `/api/tasks` | Tüm görevleri getir
+| GET | `/api/tasks/{id}` | ID'ye göre görev getir
+| POST | `/api/tasks` | Yeni görev oluştur
+| PUT | `/api/tasks/{id}` | Görevi güncelle
+| DELETE | `/api/tasks/{id}` | Görevi sil
+| GET | `/api/tasks/status/{status}` | Duruma göre görevleri getir
+| GET | `/api/tasks/category/{categoryId}` | Kategoriye göre görevleri getir
 
 
 ## Lisans
