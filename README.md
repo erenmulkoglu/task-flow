@@ -79,8 +79,11 @@ TaskFlow/
 ## API Endpoint'leri
 
 ### Kimlik Doğrulama
-- `POST /api/auth/register` - Yeni kullanıcı kaydı
-- `POST /api/auth/login` - Kullanıcı girişi
+
+| Method | Endpoint | Açıklama |
+|--------|----------|----------|
+| `POST | /api/auth/register` | - Yeni kullanıcı kaydı
+| `POST | /api/auth/login` | - Kullanıcı girişi
 
 ### Görevler (Kimlik Doğrulama Gerektirir)
 - `GET /api/tasks` - Tüm görevleri getir
