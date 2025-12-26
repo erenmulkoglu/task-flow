@@ -76,7 +76,7 @@ TaskFlow/
 ```
 
 
-## API Endpoint'leri
+## API Endpoint'leri (API Endpoints)
 
 ### Kimlik Doğrulama
 
