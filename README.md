@@ -109,3 +109,4 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LIC
 - GitHub: [@erenmulkoglu](https://github.com/erenmulkoglu)
 - LinkedIn: [Eren Mülkoğlu](https://linkedin.com/in/erenmulkoglu)
 - GitLab: [@erenmulkoglu](https://gitlab.com/erenmulkoglu)
+- Twitter: [@erenmulkoglu](twitter.com/erenmulkoglu)
